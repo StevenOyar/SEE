@@ -13,4 +13,3 @@ A lightweight, interactive calculator that performs basic arithmetic operations 
 - 😊 User-friendly interface with clear prompts
 - 🚀 Instant calculation of all four operations
 
-## Installation
